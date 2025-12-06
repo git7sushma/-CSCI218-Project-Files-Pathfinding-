@@ -8,8 +8,8 @@ In this project you will be able to set your start and end goals, place obstacle
 User can run either of the Algorithmns and then comparsion of times taken to finishign pathfinding will be shown . 
 we have also implemented moving obstacles which was an optional task as a challenge and it seems to work very well. the moving obstacles are detected and path is reconsidered and found!! 
 
-# How to run these main zip file 
-# ================= HOW TO RUN THE PROGRAM =================
+
+#  HOW TO RUN THE PROGRAM 
 
 1. Install Pygame:
     pip install pygame
@@ -31,7 +31,5 @@ A           = Run A*
 SPACE       = Compare both  
 C           = Clear grid
 
-# ==========================================================
-""
 
-Thankyou ! 
+# Thankyou ! 
